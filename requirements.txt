@@ -1,0 +1,15 @@
+streamlit
+firebase-admin
+folium
+streamlit-folium
+requests
+torch
+numpy
+Pillow
+transformers
+cloudinary
+streamlit-webrtc==0.46.0
+streamlit_autorefresh
+streamlit-mic-recorder
+assemblyai
+google-generativeai
